@@ -8,7 +8,7 @@
     <bean id="studentJon" class="dasturlash.uz.Student">
         <property name="name" value="Alish"/>
         <property name="surname" value="Aliyev"/>
-        <property name="nickName" value="dasturlash.uz"/>
+        <property name="nickName" value="dasturlashUz"/>
     </bean>
 
 </beans>
